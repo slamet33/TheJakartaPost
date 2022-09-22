@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Kingfisher (7.1.2)
+  - RxAlamofire (6.1.1):
+    - RxAlamofire/Core (= 6.1.1)
+  - RxAlamofire/Core (6.1.1):
+    - Alamofire (~> 5.4)
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxGesture (4.0.4):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SkeletonView (1.29.2)
+  - SwiftLint (0.48.0)
+  - Wormholy (1.6.5)
+
+DEPENDENCIES:
+  - Kingfisher
+  - RxAlamofire
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SkeletonView
+  - SwiftLint
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - RxAlamofire
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SkeletonView
+    - SwiftLint
+    - Wormholy
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  RxAlamofire: beb75a1c452d0de225651db4903f5d29d034a620
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxGesture: f3efb47ed2d26a8082f7b660d4a59970e275a7f8
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SwiftLint: 284cea64b6187c5d6bd83e9a548a64104d546447
+  Wormholy: 3252bc3e55a1847ef9a0976c1377bd77bf3635fa
+
+PODFILE CHECKSUM: 9682d966238951492e196b4abbf6de29b3bbde07
+
+COCOAPODS: 1.11.2
